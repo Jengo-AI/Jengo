@@ -1,6 +1,6 @@
 # Jengo
 Jengo AI
-# 👋 Welcome to My GitHub Profile
+# 👋 GitHub Profile
 
 **Jengo-AI**, is a growing cross-platform community for creatives, coders, founders, and dreamers using AI to level up in art, business, and tech.
 We share daily generative AI content, powerful prompts, tools like JengaForge, and free resources across TikTok, Twitter, Substack, Discord, and more.
