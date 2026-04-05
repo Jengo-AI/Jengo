@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00,000000&height=200&section=header&text=Jengo%20AI%20🔥&fontSize=60&fontColor=FFDD00&fontAlignY=38&desc=Build%20with%20AI.%20Create%20without%20limits.&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00,000000&height=200&section=header&text=Jengo%20AI%20&fontSize=60&fontColor=FFDD00&fontAlignY=38&desc=Build%20with%20AI.%20Create%20without%20limits.&descAlignY=58&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -23,9 +23,9 @@ Built in Nairobi. Built for the world.
 
 ## 🔥 Who We Are
 
-**Jengo AI** is a growing cross-platform generative AI community for creatives, coders, founders, and dreamers — using AI to level up in art, business, and tech.
+**Jengo AI** is a growing cross-platform generative AI community for creatives, coders, founders, and dreamers using AI to level up in art, business, and tech.
 
-We share daily generative AI content, powerful prompts, tools like **JengaForge** and **JengaPrompts**, and free resources across TikTok, Twitter, Substack, Discord, and more.
+We share daily generative AI content, powerful prompts, tools like **JengaForge**, and free resources across TikTok, Twitter, Youtube, Discord, and more.
 
 > **Join the community. Build something real.**
 
@@ -35,8 +35,8 @@ We share daily generative AI content, powerful prompts, tools like **JengaForge*
 
 | | |
 |---|---|
-| 🌍 **Location** | Nairobi, Kenya — building at the intersection of AI and Africa's creative tech scene |
-| 🤖 **Creator of** | JengaForge & JengaPrompts — tools for AI-powered creativity and productivity |
+| 🌍 **Location** | Nairobi, Kenya building at the intersection of AI and Africa's creative tech scene |
+| 🤖 **Creator of** | Bunifu Suite for AI-powered creativity and productivity |
 | 🛡️ **Author of** | The Kenya Legal Compliance Skill for Claude — covering the Data Protection Act 2019, AI Bill 2026, CBK fintech regulations, and the Computer Misuse and Cybercrimes Act |
 | 🤝 **Open to** | Collaborating on AI tools, creative tech, and African storytelling projects |
 
@@ -47,10 +47,10 @@ We share daily generative AI content, powerful prompts, tools like **JengaForge*
 **AI & Generative Tech**
 
 ```
-✦ Anthropic Claude API (Messages API, multi-turn agents)
+✦ Anthropic Claude, Gemini, Grok, ChatGPT, DeepSeek, Qwen, Mistral, Kimi
 ✦ Generative AI content pipelines
 ✦ Prompt engineering & community education
-✦ AI agent architecture (Creative mode + Forge mode routing)
+✦ AI agent architecture
 ```
 
 ---
@@ -58,28 +58,16 @@ We share daily generative AI content, powerful prompts, tools like **JengaForge*
 ## 🌟 Featured Projects
 
 ### ⚡ JengaForge
-> *AI creativity and productivity agent with dual-mode routing*
+> *Ultimate AI tools repository*
 
-An agentic AI system with **Creative Mode** for generative ideation and **Forge Mode** for structured building. Built on the Anthropic Messages API with a full React UI.
-
----
-
-### 📚 JengaPrompts
-> *A curated prompt library for the Jengo AI community*
-
-Powerful AI prompts spanning art, business, code, and storytelling — built for creators who want results, not just outputs.
+A collection of AI tools curated and updated by Jengo AI
 
 ---
 
 ### 🛡️ Kenya Legal Compliance Skill (`claude-skills`)
 > *Regulatory intelligence for Kenyan builders*
 
-A `claude-skills` module covering Kenya's key digital regulations:
-
-- 📋 **Data Protection Act 2019**
-- 🤖 **AI Bill 2026**
-- 🏦 **CBK Fintech Regulations**
-- 💻 **Computer Misuse and Cybercrimes Act**
+A `claude-skills` module covering Kenya's key digital regulations
 
 Built specifically for developers and founders building digital products in Kenya.
 
@@ -115,7 +103,7 @@ Built specifically for developers and founders building digital products in Keny
 ## 💡 Currently Working On
 
 - 🤖 Evolving **JengaForge** into a full agentic AI platform
-- 📚 Growing the Jengo AI community across TikTok, Twitter, Substack, and Discord
+- 📚 Growing the Jengo AI community across TikTok, Twitter, Youtube, Meta Platforms, Substack, and Discord
 
 ---
 
@@ -126,6 +114,7 @@ Built specifically for developers and founders building digital products in Keny
 | Platform | Link |
 |---|---|
 | 🐦 Twitter / X | [@JengoAI](https://twitter.com/JengoAI) |
+| Youtube | [@JengoAI](https://youtube.com/JengoAI) |
 | 📱 TikTok | [@JengoAI](https://tiktok.com/@JengoAI) |
 | 📝 Substack | [FinTech Edge KE](https://substack.com/@JengoAI) |
 | 💬 Discord | [Community](https://discord.gg/JengoAI) |
@@ -138,9 +127,9 @@ Built specifically for developers and founders building digital products in Keny
 
 ## 📝 Philosophy
 
-> *Build tools that empower people. Tell stories that matter. Share knowledge freely.*
+> *AI for Creativity and Productivity*
 
-African creativity + AI is one of the most exciting frontiers of our time — and we're just getting started.
+African creativity + AI is one of the most exciting frontiers of our time and we're just getting started.
 
 ---
 
