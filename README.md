@@ -1,11 +1,15 @@
-# Jengo
+# Jengo AI
 
-... (content before lines 15 and 116) ...
+Welcome to the Jengo AI repository.
 
-Line 15: Follow us on Twitter: @JengoAI
+We are excited to announce the latest updates! You can follow us on Twitter: [@JengoAI](https://twitter.com/JengoAI)
 
-... (content in between) ...
+## Contributions
 
-Line 116: Twitter: @JengoAI
+...
 
-... (content after line 116) ...
+If you have contributions, please reach out!
+
+## Twitter
+You can find us on Twitter at @JengoAI
+For updates, follow: https://twitter.com/JengoAI
