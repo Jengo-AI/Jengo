@@ -1,10 +1,11 @@
 # Jengo
 
-Welcome to Jengo! Here are our updated social media links:
+... (content before lines 15 and 116) ...
 
-- **YouTube**: [https://www.youtube.com/channel/UCnHRD1I_7u5jcwdJo0scO-w](https://www.youtube.com/channel/UCnHRD1I_7u5jcwdJo0scO-w)
-- **Twitter**: [https://x.com/jengo_ai_](https://x.com/jengo_ai_)
-- **TikTok**: [https://www.tiktok.com/@jengo.ai](https://www.tiktok.com/@jengo.ai)
-- **Discord**: [https://discord.gg/n5tGFjXh](https://discord.gg/n5tGFjXh)
-- **Substack**: [https://substack.com/@fintechedgeke](https://substack.com/@fintechedgeke)
-- **Instagram**: @jengo.ai
+Line 15: Follow us on Twitter: @JengoAI
+
+... (content in between) ...
+
+Line 116: Twitter: @JengoAI
+
+... (content after line 116) ...
