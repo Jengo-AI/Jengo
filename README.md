@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00,000000&height=200&section=header&text=Jengo%20AI%20&fontSize=60&fontColor=FFDD00&fontAlignY=38&desc=Build%20with%20AI.%20Create%20without%20limits.&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00,000000&height=200&section=header&text=Jengo%20AI%20&fontSize=60&fontColor=FFDD00&fontAlignY=38&desc=AI%20with%20for.%20Creativity%20and%20productivity.&descAlignY=58&descColor=ffffff" width="100%"/>
 
 </div>
 
