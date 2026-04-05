@@ -114,7 +114,7 @@ Built specifically for developers and founders building digital products in Keny
 | Platform | Link |
 |---|---|
 | 🐦 Twitter / X | [@JengoAI](https://twitter.com/JengoAI) |
-| Youtube | [@JengoAI](https://youtube.com/JengoAI) |
+| Youtube | [@JengoAI](https://www.youtube.com/channel/UCnHRD1I_7u5jcwdJo0scO-w) |
 | 📱 TikTok | [@JengoAI](https://tiktok.com/@JengoAI) |
 | 📝 Substack | [FinTech Edge KE](https://substack.com/@JengoAI) |
 | 💬 Discord | [Community](https://discord.gg/JengoAI) |
