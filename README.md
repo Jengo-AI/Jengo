@@ -11,11 +11,11 @@
 **Generative AI for creatives, coders, founders, and dreamers.**
 Built in Nairobi. Built for the world.
 
-[![TikTok](https://img.shields.io/badge/TikTok-@JengoAI-000000?style=for-the-badge&logo=tiktok&logoColor=FFDD00)](https://tiktok.com/@Jengo_AI)
+[![TikTok](https://img.shields.io/badge/TikTok-@JengoAI-000000?style=for-the-badge&logo=tiktok&logoColor=FFDD00)](https://tiktok.com/@Jengo.AI)
 [![Twitter](https://img.shields.io/badge/Twitter-@JengoAI-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/Jengo_AI_)
 [![Twitter](https://img.shields.io/badge/Twitter-@Jengo_AI_-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/JengoAI)
-[![Substack](https://img.shields.io/badge/Substack-FinTech_Edge_KE-000000?style=for-the-badge&logo=substack&logoColor=FFDD00)](https://substack.com/@JengoAI)
-[![Discord](https://img.shields.io/badge/Discord-Community-000000?style=for-the-badge&logo=discord&logoColor=FFDD00)](https://discord.gg/JengoAI)
+[![Substack](https://img.shields.io/badge/Substack-FinTech_Edge_KE-000000?style=for-the-badge&logo=substack&logoColor=FFDD00)](https://substack.com/@FintechEdgeKE)
+[![Discord](https://img.shields.io/badge/Discord-Community-000000?style=for-the-badge&logo=discord&logoColor=FFDD00)](https://discord.gg/n5tGFjXh)
 [![Linktree](https://img.shields.io/badge/Linktree-JengoAI-000000?style=for-the-badge&logo=linktree&logoColor=FFDD00)](https://linktr.ee/JengoAI)
 
 </div>
@@ -114,12 +114,12 @@ Built specifically for developers and founders building digital products in Keny
 
 | Platform | Link |
 |---|---|
-| 🐦 Twitter / X | [@JengoAI](https://twitter.com/JengoAI) |
 | 🐦 Twitter / X | [@JengoAI](https://twitter.com/Jengo_AI_) |
 | Youtube | [@JengoAI](https://www.youtube.com/channel/UCnHRD1I_7u5jcwdJo0scO-w) |
-| 📱 TikTok | [@JengoAI](https://tiktok.com/@JengoAI) |
-| 📝 Substack | [FinTech Edge KE](https://substack.com/@JengoAI) |
-| 💬 Discord | [Community](https://discord.gg/JengoAI) |
+| 📱 TikTok | [@JengoAI](https://tiktok.com/@Jengo.AI) |
+| 📱 Instagram | [@JengoAI](https://www.instagram.com/jengo.ai/)) |
+| 📝 Substack | [FinTech Edge KE](https://substack.com/@FintechEdgeKE) |
+| 💬 Discord | [Community](https://discord.gg/n5tGFjXh) |
 | 🐙 GitHub | [JengoAI](https://github.com/JengoAI) |
 | 🌐 All Links | [linktr.ee/JengoAI](https://linktr.ee/JengoAI) |
 
