@@ -1,98 +1,157 @@
-# Jengo
-Jengo AI
-# 👋 GitHub Profile
+<div align="center">
 
-**Jengo-AI**, is a growing cross-platform community for creatives, coders, founders, and dreamers using AI to level up in art, business, and tech.
-We share daily generative AI content, powerful prompts, tools like JengaForge, and free resources across TikTok, Twitter, Substack, Discord, and more.
-Join our community.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00,000000&height=200&section=header&text=Jengo%20AI%20🔥&fontSize=60&fontColor=FFDD00&fontAlignY=38&desc=Build%20with%20AI.%20Create%20without%20limits.&descAlignY=58&descColor=ffffff" width="100%"/>
 
----
-
-## 🎯 About
-
-- 🔭 Currently exploring new technologies and best practices in software development
-- 💻 Interested in building scalable and maintainable applications
-- 🚀 Dedicated to continuous learning and improvement
-- 🤝 Open to collaborating on interesting projects
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages & Frameworks:**
-- Python, JavaScript/TypeScript, Java, C++
-- React, Node.js, Django, FastAPI
-
-**Tools & Platforms:**
-- Git & GitHub
-- Docker & containerization
-- CI/CD pipelines
-- Cloud platforms (AWS, GCP, Azure)
-
-**Other Expertise:**
-- RESTful API design
-- Database design and optimization
-- Software architecture and design patterns
-- Problem-solving and debugging
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jengo-AI&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jengo-AI&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-### Project Name
-Brief description of what this project does and why it's interesting.
-- [Repository](link-to-repo) | [Live Demo](link-if-available)
-
----
-
-## 💡 Working On
-
-- 📚 Learning and mastering new technologies
-- 🔨 Building projects that solve real-world problems
-- 📖 Contributing to open-source initiatives
-- 🎓 Sharing knowledge through documentation and examples
-
----
-
-## 🤝 How to Connect
-
-- 📧 Reach out via GitHub discussions or issues
-- 💼 [Connect on LinkedIn](your-linkedin-url)
-- 🌐 [Personal Website](your-website-url)
-- 🐦 [@YourTwitterHandle](your-twitter-url)
-
----
-
-## 📝 Philosophy
-
-Writing clean, maintainable code and fostering collaborative development environments. I'm committed to continuous improvement and staying current with industry trends.
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 When not coding, I enjoy [your hobbies]
-- 🌍 I'm interested in [your interests]
-- 📚 Currently reading [book/blog/resource]
-
----
-
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!**
+</div>
 
 ---
 
 <div align="center">
 
-### Let's build something amazing together! 🚀
+**Generative AI for creatives, coders, founders, and dreamers.**
+Built in Nairobi. Built for the world.
+
+[![TikTok](https://img.shields.io/badge/TikTok-@JengoAI-000000?style=for-the-badge&logo=tiktok&logoColor=FFDD00)](https://tiktok.com/@JengoAI)
+[![Twitter](https://img.shields.io/badge/Twitter-@JengoAI-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/JengoAI)
+[![Substack](https://img.shields.io/badge/Substack-FinTech_Edge_KE-000000?style=for-the-badge&logo=substack&logoColor=FFDD00)](https://substack.com/@JengoAI)
+[![Discord](https://img.shields.io/badge/Discord-Community-000000?style=for-the-badge&logo=discord&logoColor=FFDD00)](https://discord.gg/JengoAI)
+[![Linktree](https://img.shields.io/badge/Linktree-JengoAI-000000?style=for-the-badge&logo=linktree&logoColor=FFDD00)](https://linktr.ee/JengoAI)
+
+</div>
+
+---
+
+## 🔥 Who We Are
+
+**Jengo AI** is a growing cross-platform generative AI community for creatives, coders, founders, and dreamers — using AI to level up in art, business, and tech.
+
+We share daily generative AI content, powerful prompts, tools like **JengaForge** and **JengaPrompts**, and free resources across TikTok, Twitter, Substack, Discord, and more.
+
+> **Join the community. Build something real.**
+
+---
+
+## 🎯 About
+
+| | |
+|---|---|
+| 🌍 **Location** | Nairobi, Kenya — building at the intersection of AI and Africa's creative tech scene |
+| 🤖 **Creator of** | JengaForge & JengaPrompts — tools for AI-powered creativity and productivity |
+| 🛡️ **Author of** | The Kenya Legal Compliance Skill for Claude — covering the Data Protection Act 2019, AI Bill 2026, CBK fintech regulations, and the Computer Misuse and Cybercrimes Act |
+| 🤝 **Open to** | Collaborating on AI tools, creative tech, and African storytelling projects |
+
+---
+
+## 🛠️ Skills & Technologies
+
+**AI & Generative Tech**
+
+```
+✦ Anthropic Claude API (Messages API, multi-turn agents)
+✦ Generative AI content pipelines
+✦ Prompt engineering & community education
+✦ AI agent architecture (Creative mode + Forge mode routing)
+```
+
+---
+
+## 🌟 Featured Projects
+
+### ⚡ JengaForge
+> *AI creativity and productivity agent with dual-mode routing*
+
+An agentic AI system with **Creative Mode** for generative ideation and **Forge Mode** for structured building. Built on the Anthropic Messages API with a full React UI.
+
+---
+
+### 📚 JengaPrompts
+> *A curated prompt library for the Jengo AI community*
+
+Powerful AI prompts spanning art, business, code, and storytelling — built for creators who want results, not just outputs.
+
+---
+
+### 🛡️ Kenya Legal Compliance Skill (`claude-skills`)
+> *Regulatory intelligence for Kenyan builders*
+
+A `claude-skills` module covering Kenya's key digital regulations:
+
+- 📋 **Data Protection Act 2019**
+- 🤖 **AI Bill 2026**
+- 🏦 **CBK Fintech Regulations**
+- 💻 **Computer Misuse and Cybercrimes Act**
+
+Built specifically for developers and founders building digital products in Kenya.
+
+---
+
+## 🧩 The Bunifu Suite — 14 Apps. One Ecosystem.
+
+> *From prompt engineering to payments — a full-stack creative and AI platform built for builders, creators, and communities.*
+
+<div align="center">
+
+| # | App | Category | What It Does |
+|---|-----|----------|--------------|
+| 01 | ✨ **JengaPrompts** | `AI` | Builds, refines & optimizes AI prompts for consistently better outputs |
+| 02 | ⚡ **JengaPrompts Pro** | `AI` | Professional-grade prompt workflows with automation and reusable pipelines |
+| 03 | 🖼️ **VizPrompts Studio** | `Visual AI` | Converts images into detailed, usable prompts with style extraction |
+| 04 | 🎬 **VizPrompts Pro** | `Visual AI` | High-performance visual prompt generation with video remixing & bulk control |
+| 05 | 🔧 **JengaForge** | `Repository` | Central hub for discovering and using AI tools built and curated by Jengo AI |
+| 06 | 🎨 **JengaUI** | `UI Gen` | Generates multiple responsive UI layouts from a single idea or prompt |
+| 07 | 🧠 **JengaContext** | `AI` | Structures and optimizes input context for token-efficient AI responses |
+| 08 | 📊 **DataMambo** | `Analytics` | Tracks and analyzes social media performance, engagement, and growth |
+| 09 | 🛒 **PromptSoko** | `Marketplace` | Platform to buy, sell, and discover prompts — with creator monetization built in |
+| 10 | 🖼️ **Thumbnail Safi** | `Creator` | Generates thumbnails, descriptions, and SEO/GEO/AEO tags for content creators |
+| 11 | 💳 **KahawaPay** | `Payments` | Simple digital payments with M-Pesa-style flows, QR codes, and creator tipping |
+| 12 | 🤖 **Bunifu Agent** | `AI Agent` | Handles tasks, workflows, and creative processes automatically end-to-end |
+| 13 | 📚 **BookShareKE** | `Community` | Enables users to share, swap, and discover books locally within their community |
+| 14 | 🌊 **VibeShareKE** | `Social` | Platform for sharing vibecoded projects and creative work with a builder community |
+
+</div>
+
+---
+
+## 💡 Currently Working On
+
+- 🤖 Evolving **JengaForge** into a full agentic AI platform
+- 📚 Growing the Jengo AI community across TikTok, Twitter, Substack, and Discord
+
+---
+
+## 🤝 Connect with Jengo AI
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🐦 Twitter / X | [@JengoAI](https://twitter.com/JengoAI) |
+| 📱 TikTok | [@JengoAI](https://tiktok.com/@JengoAI) |
+| 📝 Substack | [FinTech Edge KE](https://substack.com/@JengoAI) |
+| 💬 Discord | [Community](https://discord.gg/JengoAI) |
+| 🐙 GitHub | [JengoAI](https://github.com/JengoAI) |
+| 🌐 All Links | [linktr.ee/JengoAI](https://linktr.ee/JengoAI) |
+
+</div>
+
+---
+
+## 📝 Philosophy
+
+> *Build tools that empower people. Tell stories that matter. Share knowledge freely.*
+
+African creativity + AI is one of the most exciting frontiers of our time — and we're just getting started.
+
+---
+
+<div align="center">
+
+Thanks for visiting! Explore the repos, join the community, and let's build something amazing together. 🚀
+
+---
+
+**Made with 🔥 from Nairobi, to the world. 🌍**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FFDD00&height=100&section=footer" width="100%"/>
 
 </div>
