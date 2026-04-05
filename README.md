@@ -11,8 +11,8 @@
 **Generative AI for creatives, coders, founders, and dreamers.**
 Built in Nairobi. Built for the world.
 
-[![TikTok](https://img.shields.io/badge/TikTok-@JengoAI-000000?style=for-the-badge&logo=tiktok&logoColor=FFDD00)](https://tiktok.com/@JengoAI)
-[![Twitter](https://img.shields.io/badge/Twitter-@JengoAI-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/JengoAI)
+[![TikTok](https://img.shields.io/badge/TikTok-@JengoAI-000000?style=for-the-badge&logo=tiktok&logoColor=FFDD00)](https://tiktok.com/@Jengo_AI)
+[![Twitter](https://img.shields.io/badge/Twitter-@JengoAI-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/Jengo_AI_)
 [![Twitter](https://img.shields.io/badge/Twitter-@Jengo_AI_-000000?style=for-the-badge&logo=x&logoColor=FFDD00)](https://twitter.com/JengoAI)
 [![Substack](https://img.shields.io/badge/Substack-FinTech_Edge_KE-000000?style=for-the-badge&logo=substack&logoColor=FFDD00)](https://substack.com/@JengoAI)
 [![Discord](https://img.shields.io/badge/Discord-Community-000000?style=for-the-badge&logo=discord&logoColor=FFDD00)](https://discord.gg/JengoAI)
